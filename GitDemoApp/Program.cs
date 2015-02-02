@@ -10,6 +10,8 @@ namespace GitDemoApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is updated to check Git functionality.");
+            Console.ReadLine();
         }
     }
 }
