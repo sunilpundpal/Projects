@@ -11,7 +11,7 @@ namespace DesignPattern.Adapter
 
         public void Do()
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
     }
 }
